@@ -2,3 +2,6 @@ this is first feature of our application.
 
 this is bug fix code added in development branch
 
+
+this feature added before stash in master branch
+
