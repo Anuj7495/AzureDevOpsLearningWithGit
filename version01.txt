@@ -3,5 +3,9 @@ this is first feature of our application.
 this is bug fix code added in development branch
 
 
+<<<<<<< Updated upstream
 this feature added before stash in master branch
+=======
+this feature added from new branch 
+>>>>>>> Stashed changes
 
